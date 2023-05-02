@@ -10,6 +10,6 @@ spec:
     project: default
     source:
         path: demoapp
-        repoURL: https://github.com/christianwaldmann/demo-app
+        repoURL: https://github.com/christianwaldmann/kubernetes-gitops
     syncPolicy:
         automated: {}
