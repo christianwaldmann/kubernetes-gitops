@@ -19,7 +19,7 @@ spec:
         spec:
             containers:
                 - name: demoapp
-                  image: ghcr.io/christianwaldmann/demo-app:v0.0.1
+                  image: ghcr.io/christianwaldmann/demo-app:v0.0.2
                   resources:
                       limits:
                           memory: "128Mi"
